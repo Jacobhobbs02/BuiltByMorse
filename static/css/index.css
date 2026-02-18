@@ -658,9 +658,6 @@ footer {
         max-width: 90%;
         padding: 40px 30px;
     }
- .section-divider {
-        height: 60vh;
-    }
 
     .sub-section {
         padding: 60px 20px;
@@ -758,10 +755,6 @@ footer {
         padding: 30px 25px;
     }
 
-     .section-divider {
-        height: 70vh;
-    }
-
     .sub-section {
         padding: 50px 15px;
     }
@@ -840,10 +833,6 @@ footer {
 
     .growth-item {
         padding: 25px 20px;
-    }
-
-     .section-divider {
-        height: 80vh;
     }
 
     .sub-section {
