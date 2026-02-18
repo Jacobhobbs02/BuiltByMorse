@@ -646,6 +646,7 @@ footer {
     .growth {
         height: auto;
         padding: 2rem 1rem;
+        padding-bottom: 12rem;
     }
 
     .growth-hero {
@@ -747,6 +748,10 @@ footer {
     .btn {
         padding: 0.8rem 2rem;
         font-size: 18px;
+    }
+
+    .growth {
+        padding-bottom: 16rem;
     }
 
     .growth-item {
