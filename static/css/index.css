@@ -799,10 +799,10 @@ footer {
     }
 
     .hero-content {
-        margin-top: 0;     
-        padding: 10vh 6vw;            
+        margin-top: 0;               
         max-width: 900px;
         font-size: 26px;
+         padding: 8vh 6vw 14vh;
     }
 
     .hero-content h1 {
@@ -817,7 +817,7 @@ footer {
 
     .growth {
         height: auto; 
-        margin-top: 8vh;
+        margin-top: 15vh;
         margin-bottom: 12vh;
         padding: 0 5vw;
     }
@@ -840,4 +840,8 @@ footer {
         font-size: 1.8rem;
     }
 
+}
+
+.sub-section {
+    margin-top: 5%;
 }
